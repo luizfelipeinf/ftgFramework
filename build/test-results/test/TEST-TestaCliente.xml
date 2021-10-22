@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestaCliente" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-22T04:17:17" hostname="DESKTOP-KAOI" time="2.91">
+  <properties/>
+  <testcase name="Quando eu solicitar o risco de um cliente com credenciais vÃ¡lidas, EntÃ£o ele deve ser retornado com sucesso" classname="TestaCliente" time="2.621"/>
+  <testcase name="Quando eu deletar um cliente, EntÃ£o ele deve ser removido com sucesso" classname="TestaCliente" time="0.057"/>
+  <testcase name="Quando eu atualizar um cliente, EntÃ£o ele deve ser atualizado com sucesso" classname="TestaCliente" time="0.097"/>
+  <testcase name="Quando eu requisitar a lista de clientes sem adicionar clientes antes, EntÃ£o ela deve estar vazia" classname="TestaCliente" time="0.034"/>
+  <testcase name="Quando eu cadastrar um cliente, Entao ele deve ser salvo com sucesso" classname="TestaCliente" time="0.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
